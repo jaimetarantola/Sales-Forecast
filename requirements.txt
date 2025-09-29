@@ -4,3 +4,6 @@ seaborn
 plotly
 jupyterlab
 ipykernel
+pandas
+numpy
+
