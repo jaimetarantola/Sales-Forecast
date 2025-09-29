@@ -29,7 +29,7 @@ Dataset link: [https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting](htt
 
 ## Project Objectives
 
-* Performe Eplanatory Data Analysis on retail sales.
+* Performe Explanatory Data Analysis on retail sales.
 * Clean and explore raw sales data.
 * Develop baseline and machine learning forecasting models.
 * Compare forecast accurary.
@@ -37,12 +37,10 @@ Dataset link: [https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting](htt
 
 ---
 
----
-
 ## Explore the Notebook
 
 For those interested in the code and step-by-step analysis, see
-notebooks/EDA and notebooks/SF_Modeling.ipynb
+notebooks/EDA and notebooks/SF_Modeling.ipynb.
 
 ---
 
